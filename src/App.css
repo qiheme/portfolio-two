@@ -10,7 +10,11 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  background-image: url('./background.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 90vh;
   display: flex;
   flex-direction: column;
   align-items: center;
