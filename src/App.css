@@ -23,6 +23,11 @@
   color: white;
 }
 
+.App-description {
+  height: 100vh;
+  width: 100%;
+}
+
 .App-link {
   color: #61dafb;
 }
