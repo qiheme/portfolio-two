@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "10.16.1"
+sudo: required
+cache:
+  yarn: true
+install:
+  - yarn
+script:
+  - npm test
+  - npm run build
