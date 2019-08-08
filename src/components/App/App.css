@@ -10,7 +10,7 @@
 
 .App-header {
   background-color: #282c34;
-  background-image: url('./background.jpeg');
+  background-image: url('../../images/background.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
