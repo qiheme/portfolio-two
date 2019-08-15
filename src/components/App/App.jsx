@@ -1,6 +1,6 @@
 import React from 'react';
-import MenuAppBar from '../MenuAppBar';
-import Card from '../Card';
+import MenuAppBar from '../MenuAppBar/MenuAppBar';
+import Card from '../Card/Card';
 import logo from '../../images/logo.svg';
 import './App.css';
 
